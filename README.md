@@ -9,6 +9,10 @@ I am a green hand in Web front-end, I used to be a graphic designer. :)
 
 ![yau's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ending1221&layout=compact&theme=material-palenight)
 
+## Programming Skill:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="30px">
+
 
 
 <!--
