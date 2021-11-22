@@ -11,8 +11,8 @@ I am a green hand in Web front-end, I used to be a graphic designer. :)
 
 ## Programming Skill:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="30px">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="30px"/>
+<img src="https://mdimg.wxwenku.com/getimg/6b990ce30fa9193e296dd37902816f4b1a404aef1089235e4bf54848349cb9eeadc3c2841a3ccf8dd4a81bd89ea6f82a.jpg" width="30px"/>
 
 
 <!--
