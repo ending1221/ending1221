@@ -6,7 +6,7 @@ I am a green hand in Web front-end, I used to be a graphic designer. :)
 <br>
  I hope you like my works!
  
- ![my portfolio](https://ending1221.github.io/yau_portfolio/)
+ <a href="https://ending1221.github.io/yau_portfolio/"> my portfolio</a>
 
 
 ![yau's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ending1221&layout=compact&theme=material-palenight)
