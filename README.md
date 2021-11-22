@@ -5,6 +5,8 @@ you can call me Yau.
 I am a green hand in Web front-end, I used to be a graphic designer. :)
 <br>
  I hope you like my works!
+ 
+ ![my portfolio](https://ending1221.github.io/yau_portfolio/)
 
 
 ![yau's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ending1221&layout=compact&theme=material-palenight)
