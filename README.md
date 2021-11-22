@@ -6,10 +6,9 @@ I am a green hand in Web front-end, I used to be a graphic designer. :)
 <br>
  I hope you like my works!
 
-<hr>
 
-Programming Skill:
-<i class="fab fa-js-square"></i>
+![yau's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ending1221&layout=compact&theme=material-palenight)
+
 
 
 <!--
