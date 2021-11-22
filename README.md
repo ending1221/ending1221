@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h1 align='center'> Hi! :wave:</h1>
+
+HEY! I'm Wei-Hsin.
+you can call me Yau.
+
+I am a green hand in Web front-end, I used to be a graphic designer. :)
+
+I hope you like my works!
+
 <!--
 **ending1221/ending1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
